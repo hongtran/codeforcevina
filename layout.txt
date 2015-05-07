@@ -1,0 +1,355 @@
+<div style="border: 1px solid #ccc; border-radius: 5px; width:50%">
+<div class="form-group" style="margin-left: 55px;">
+<div class="row"> 
+<div class="col-lg-1"></div>
+<div class="col-lg-3" style="width: 50%;">
+	<div class="checkbox">
+		<label>
+			<input type="checkbox" value="">For Sale
+		</label>
+	</div>
+	<div class="checkbox">
+		<label>
+			<input type="checkbox" value="">Long Term Rental
+		</label>
+	</div>
+	<div class="checkbox">
+		<label>
+			<input type="checkbox" value="">Short Term Rental
+		</label>
+	</div>
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 5px; width:50%">
+	<div class="form-group" style="margin-left: 55px;">
+		<div class="row"> 
+			<div class="col-lg-1"></div>
+			<div class="col-lg-3" style="width: 50%;">
+				<div class="checkbox">
+					<label>
+						<input type="checkbox" value="">Rental Dates
+					</label>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<div class="row">
+			<div class="col-lg-3" style="width: 50%;">
+				<div class="row">
+					<div class="col-lg-5 text-nowrap">From</div>
+					<div class="form-group input-group col-lg-7">
+						<input type="text" placeholder="" class="form-control">
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-3" style="width: 50%;">
+				<div class="row">
+					<div class="col-lg-4 text-nowrap" style="text-align:right;">To</div>
+					<div class="form-group input-group col-lg-7">
+						<input type="text" placeholder="" class="form-control">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="col-lg-6">
+                            <div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Ref Id</div>
+                                <div class="col-lg-5" style="border: 1px solid #ccc; border-radius: 4px; padding:4px;">
+                                	<input class="form-control" placeholder="Ref Id">
+
+                                    <span style=""><input type="checkbox"><span style="margin-left:5px;">System Ref</span></span>
+                                    <span style="float:right;"><input type="checkbox"><span style="margin-left:5px;">Agency Ref</span></span>
+                                </div>
+<a style="padding:0px -5px;" target="_blank" title="Click here for more information" href="/live/KnowledgeBase/DisplayContent.asp?pQuestionId=644&amp;pCategoryId=1&amp;pLevel=2"><img src="/live/images/info2.gif" style="height:15px; width:15px; position:relative; top:2px;"></a>
+                              </div> 
+                            </div>
+                            <div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Country</div>
+                                <div class="col-lg-5" style="padding:4px;">
+                                	<input class="form-control">
+                                </div>
+                              </div> 
+                            </div>
+  <div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Area</div>
+                                <div class="col-lg-5" style="padding:4px;">
+                                	<input class="form-control">
+                                </div>
+                              </div> 
+                            </div>
+  <div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Location</div>
+                                <div class="col-lg-5" style="padding:4px;">
+                                	<input class="form-control">
+                                </div>
+                              </div> 
+                            </div>
+                            <div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Must Have</div>
+                                <div class="col-lg-5" style="padding:4px;">
+                                	<input class="form-control" placeholder="Choose features">
+                                </div>
+                              </div> 
+                            </div>
+  							<div class="form-group">
+                              <div class="row"> 
+                                <div class="col-lg-1">Nice To Have</div>
+                                <div class="col-lg-5" style="padding:4px;">
+                                	<input class="form-control" placeholder="Choose features">
+                                </div>
+                              </div> 
+                            </div>
+  							<div class="form-group">
+                                	<div class="row"> 
+                                    	<div class="col-lg-1"></div>
+                                        <div class="col-lg-3">
+                                        	<div class="checkbox">
+                                                <label>
+                                                    <input type="checkbox" value="">Own Company Properties
+                                                </label>
+                                            </div>
+                                            <div class="checkbox">
+                                                <label>
+                                                    <input type="checkbox" value="">Own Office Properties
+                                                </label>
+                                            </div>
+                                            <div class="checkbox">
+                                                <label>
+                                                    <input type="checkbox" value="">Preferred Agencies
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                        </div>
+						</div>
+						
+						
+						/******* advanced search ********/
+						<div class="row">
+       <div class="col-lg-6">
+  <div class="form-group">
+    <div class="row"> 
+      <div class="col-lg-1">Currency</div>
+      <div class="col-lg-2" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div> 
+  </div><div class="form-group">
+    <div class="row"> 
+      <div class="col-lg-1">Price Change</div>
+      <div class="col-lg-2" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div> 
+  </div>
+  <div class="form-group">
+    <div class="row"> 
+      <div class="col-lg-1">Demensions</div>
+      <div class="col-lg-2" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div> 
+  </div>
+  
+<div class="form-group">
+  <div class="row">
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-5 text-nowrap">Built Size From</div>
+      <div class="col-lg-7" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-1">To</div>
+      <div class="col-lg-8" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    </div>
+  </div>
+  <div class="form-group">
+  <div class="row">
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-5 text-nowrap">Terrace From</div>
+      <div class="col-lg-7" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-1">To</div>
+      <div class="col-lg-8" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    </div>
+  </div>
+  <div class="form-group">
+  <div class="row">
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-5 text-nowrap">Garden/Plot From</div>
+      <div class="col-lg-7" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    <div class="col-lg-3">
+    <div class="row"> 
+      <div class="col-lg-1">To</div>
+      <div class="col-lg-8" style="">
+        <input class="form-control" placeholder="">
+      </div>
+    </div>
+    </div>
+    </div>
+  </div>
+  
+  </div>
+  
+  <div class="col-lg-6">
+    <div class="form-group">
+      <div class="row"> 
+        <div class="col-lg-2">Energy Rating</div>
+        <div class="col-lg-4" style="">
+          <input class="form-control" placeholder="">
+        </div>
+      </div> 
+    </div><div class="form-group">
+      <div class="row"> 
+        <div class="col-lg-2">Status</div>
+        <div class="col-lg-4" style="">
+          <input class="form-control" placeholder="">
+        </div>
+      </div> 
+    </div>
+  <div class="form-group">
+      <div class="row"> 
+        <div class="col-lg-2">Key</div>
+        <div class="col-lg-4" style="">
+          <input class="form-control" placeholder="">
+        </div>
+      </div> 
+    </div>
+  <div class="form-group">
+      <div class="row"> 
+        <div class="col-lg-2">Agency</div>
+        <div class="col-lg-5" style="">
+          <input class="form-control" placeholder="Choose Agency">
+        </div>
+      </div> 
+    </div>
+  <div class="form-group" style="padding-left: 80px;">
+    <div class="row"> 
+      <div class="col-lg-1"></div>
+      <div class="col-lg-5">
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Appears to be Decree 218 Compliant</label>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Does Not Appear to be Decree 218 Compliant</label>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  
+</div>
+
+/*************Own company Properties Only *********/
+<div class="row" style="border: 1px solid #ccc; border-radius: 3px; padding-top: 5px; margin-left: 3px;">
+       <div class="col-lg-6">
+           <div class="form-group">
+        <div class="row"> 
+          <div class="col-lg-1">Vendor</div>
+          <div class="col-lg-4" style="">
+            <input class="form-control" placeholder="">
+          </div>
+        </div> 
+      </div>
+         <div class="form-group">
+        <div class="row"> 
+          <div class="col-lg-2">Listed By</div>
+          <div class="col-lg-4" style="">
+            <input class="form-control" placeholder="">
+          </div>
+        </div> 
+      </div>
+         <div class="form-group">
+        <div class="row"> 
+          <div class="col-lg-2">Cadastral</div>
+          <div class="col-lg-4" style="">
+            <input class="form-control" placeholder="">
+          </div>
+          <a style="padding:0px -5px;" target="_blank" title="Click here for more information" href="/live/KnowledgeBase/DisplayContent.asp?pQuestionId=644&amp;pCategoryId=1&amp;pLevel=2"><img src="/live/images/info2.gif" style="height:15px; width:15px; position:relative; top:2px;"></a>
+        </div> 
+  		
+      </div>
+         <div class="form-group">
+        <div class="row"> 
+          <div class="col-lg-2">New MLS Sharing</div>
+          <div class="col-lg-4" style="">
+            <input class="form-control" placeholder="">
+          </div>
+          <a style="padding:0px -5px;" target="_blank" title="Click here for more information" href="/live/KnowledgeBase/DisplayContent.asp?pQuestionId=644&amp;pCategoryId=1&amp;pLevel=2"><img src="/live/images/info2.gif" style="height:15px; width:15px; position:relative; top:2px;"></a>
+        </div> 
+      </div>
+  </div>
+  <div class="col-lg-6">
+    <div class="form-group">
+        <div class="row"> 
+          <div class="col-lg-2">Construction Status</div>
+          <div class="col-lg-4" style="">
+            <input class="form-control" placeholder="">
+          </div>
+        </div> 
+      </div><div class="form-group" style="padding-left: 80px;">
+    <div class="row"> 
+      <div class="col-lg-1"></div>
+      <div class="col-lg-3">
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Shared Properties
+          </label>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Not Shared (Duplicate)
+          </label>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Not Shared (Requested)
+          </label>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="">Featured
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  </div>
+</div>
